@@ -1,4 +1,4 @@
-# BIOVEG2 - Statistical analyses in R
+# BIOVEG - Statistical analyses in R
 # BIOVEG is an R script that covers common statistical analyses (basic and advanced) applied in plant ecology. Thus, the script
 # is a compilation of methods based on several published R packages, being applied to the modeling and statistical tests of Brazilian 
 # Atlantic Forest and temperate German physiognomies. The main aim of this script is to share knowledge and support / facilitate the 
