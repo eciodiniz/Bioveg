@@ -8,8 +8,8 @@ If you have any problems downloading or using it, please enter in contact by ema
 
 Below are the published textbooks that use parts of BIOVEG's codes and templates:
 
-##### DINIZ, ÉCIO SOUZA; Thiele, Jan. Modelos de regressão em R. Joinville - SC: Clube dos Autores, 2021. 154p. ISBN: 978-65-001-9611-5. https://clubedeautores.com.br/livro/modelos-de-regressao-em-r
+###### DINIZ, ÉCIO SOUZA; Thiele, Jan. Modelos de regressão em R. Joinville - SC: Clube dos Autores, 2021. 154p. ISBN: 978-65-001-9611-5. https://clubedeautores.com.br/livro/modelos-de-regressao-em-r
 
-##### DINIZ, ÉCIO SOUZA; Thiele, Jan. Aplicações de modelos de regressão em R para análise de vegetação. 2. ed. Saarbrücken: Novas Edições Acadêmicas (NEA), 2021. 160p. ISBN: 978-620-3-46715-4. https://www.morebooks.shop/shop-ui/shop/product/978-620-3-46715-4
+###### DINIZ, ÉCIO SOUZA; Thiele, Jan. Aplicações de modelos de regressão em R para análise de vegetação. 2. ed. Saarbrücken: Novas Edições Acadêmicas (NEA), 2021. 160p. ISBN: 978-620-3-46715-4. https://www.morebooks.shop/shop-ui/shop/product/978-620-3-46715-4
 
-##### DINIZ, ÉCIO SOUZA; THIELE, J. Modelagem de Regressão no R: aplicações em análises de vegetação. 1. ed. Saarbrücken: Novas Edições Acadêmicas, 2018. 84p. ISBN: 978-620-2-04882-8. https://www.morebooks.shop/shop-ui/shop/product/978-620-2-04882-8
+###### DINIZ, ÉCIO SOUZA; THIELE, J. Modelagem de Regressão no R: aplicações em análises de vegetação. 1. ed. Saarbrücken: Novas Edições Acadêmicas, 2018. 84p. ISBN: 978-620-2-04882-8. https://www.morebooks.shop/shop-ui/shop/product/978-620-2-04882-8
