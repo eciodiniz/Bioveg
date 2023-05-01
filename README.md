@@ -1,7 +1,7 @@
 # BIOVEG - a protocol to learn and teach statistics in r using vegetation data
-![Screenshot](Bioveg-logo.png)
+
 <p align="center">
-  <img src="your_relative_path_here" width="350" title="hover text">
+  <img src="your_relative_path_here" width="350" title="">
   <img src="Bioveg-logo.png" width="350" alt="accessibility text">
 </p>
 The wide range of vegetation types that exist throughout the world, and particularly tropical rainforests, are crucial for the provision of ecosystem goods and services. Efficient and robust analytical tools are required to extract valuable information from vegetation data, thereby enhancing our comprehension of the interaction of plants with the environment in which they occur. Such information is increasingly valuable in the context of rapid global change. The growing use of programming languages such as R, in computational statistics, has facilitated the development of ever more complex analyses, thus delivering significant advances in our understanding of vegetation dynamics. In this chapter, we present Bioveg, a freely available set of R scripts and datasets for the teaching and learning of statistical analysis using R. We use vegetation data to illustrate a range of statistical analyses, from commonly used basic statistics to many more advanced and complex procedures. The data we explore in this text was collected from temperate Vegetation in Germany and Brazilian Atlantic Forests. The datasets are freely available to download. We hope to contribute to the distribution of understanding of the proper use of statistical analyses in R, and their application for vegetation analysis. 
